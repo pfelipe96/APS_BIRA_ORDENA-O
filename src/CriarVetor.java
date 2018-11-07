@@ -11,6 +11,7 @@ public class CriarVetor {
         return lenght;
     }
 
+
     public void setLenght(int lenght) {
         this.lenght = lenght;
     }
